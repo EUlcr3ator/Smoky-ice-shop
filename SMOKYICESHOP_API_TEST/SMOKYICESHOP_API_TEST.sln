@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMOKYICESHOP_API_TEST", "SMOKYICESHOP_API_TEST\SMOKYICESHOP_API_TEST.csproj", "{6905D259-1369-41EC-8F84-A97F30428AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6905D259-1369-41EC-8F84-A97F30428AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6905D259-1369-41EC-8F84-A97F30428AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6905D259-1369-41EC-8F84-A97F30428AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6905D259-1369-41EC-8F84-A97F30428AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88133533-7B5F-4060-A277-CA0F83BA00E2}
+	EndGlobalSection
+EndGlobal
